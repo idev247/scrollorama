@@ -9,6 +9,9 @@ Want to do super-scrolly stuff? Check out [Scrollorama2: SuperScrollorama](http:
 
 Dual licensed under the MIT license (below) and [GPL license](http://www.gnu.org/licenses/gpl-3.0.html).
 
+## Examples
+[GoSquared Visitors](https://www.gosquared.com/visitors/)
+
 <small>
 MIT License
 
